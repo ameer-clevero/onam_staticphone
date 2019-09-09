@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One|Roboto&display=swap');
+* {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top {
+    background-color: blue;
+}
+
+#brand-logo {
+    float: right;
+    color: white;
+    font-family: Roboto;
+    font-size: 10px;
+    margin: 50px 25px;
+}
+
+.title-tag label {
+    font-family: 'Rammetto One', cursive;
+    color: white;
+}
+
+.title-tag a {
+    border: black 1px solid;
+    border-radius: 25px;
+    background-image: radial-gradient(circle at 50% 152%, #f0ad15, #fab20e);
+}
