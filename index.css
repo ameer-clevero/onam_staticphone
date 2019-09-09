@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Rammetto+One|Roboto&display=swap');
+* {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top {
+    background-color: #03a9f4;
+    text-align: center;
+    min-height: 100vh;
+}
+
+#brand-logo {
+    float: right;
+    color: white;
+    font-family: Roboto;
+    font-size: 10px;
+    margin: 50px 25px;
+}
+
+.title-tag label {
+    margin-top: 10%;
+    font-family: 'Rammetto One', cursive;
+    color: white;
+}
+
+.title-tag a {
+    border: black 0px solid;
+    border-radius: 25px;
+    background-image: radial-gradient(circle at 50% 152%, #f0ad15, #fab20e);
+    padding: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    width: 400px;
+    font-size: 5em;
+}
+
+.middle {
+    min-height: 100vh;
+    text-align: center;
+}
+
+.middle label {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin: 12px 0px;
+    font-size: 34px;
+    text-transform: uppercase;
+    color: #1f567d;
+}
+
+.rect {
+    height: 25px;
+    background-color: #03a9f4;
+    width: 100%;
+}
+
+#free-png {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -100px;
+}
+
+.footer {
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.79px;
+    text-align: center;
+    color: #5e5e5e;
+    margin-top: 30PX;
+    margin-bottom: 30px;
+}
